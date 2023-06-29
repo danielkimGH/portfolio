@@ -1,8 +1,4 @@
 # Name: Daniel Kim
-# OSU Email: kimda6@oregonstate.edu
-# Course: CS261 - Data Structures
-# Assignment: 6
-# Due Date: March 17, 2023
 # Description: Class definition for HashMap with open addressing implementation
 
 from a6_include import DynamicArray, DynamicArrayException, HashEntry, hash_function_1, hash_function_2
